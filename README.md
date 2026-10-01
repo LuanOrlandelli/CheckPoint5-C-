@@ -189,19 +189,19 @@ Exemplos de registros:
 
 ### Inserir produto
 
-![Inserir produto](Prints/inserir-produto.png)
+![Inserir produto](CadastroProdutosWPF/Prints/inserir-produto.png)
 
 ### Listar produtos
 
-![Listar produtos](Prints/listar-produtos.png)
+![Listar produtos](CadastroProdutosWPF/Prints/listar-produtos.png)
 
 ### Buscar produto por ID
 
-![Buscar produto](Prints/buscar-produto.png)
+![Buscar produto](CadastroProdutosWPF/Prints/buscar-produto.png)
 
 ### Atualizar produto
 
-![Atualizar produto](Prints/atualizar-produto.png)
+![Atualizar produto](CadastroProdutosWPF/Prints/atualizar-produto.png)
 
 
 ## Vídeo de apresentação do projeto
